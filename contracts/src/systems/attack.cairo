@@ -1,3 +1,4 @@
+Start
 use dojo::world::{IWorldDispatcher, IWorldDispatcherTrait};
 
 #[starknet::interface]
@@ -122,4 +123,5 @@ mod attack_system {
         }
     }
 }
+Finish
 
